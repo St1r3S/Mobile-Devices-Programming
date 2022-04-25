@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">WordScramble</string>
+    <string name="buttonText">Unscramble word</string>
+    <string name="scrambled_word">Scrambled word</string>
+    <string name="word_scramble">Word Scramble</string>
+    <string name="enter_answer">write answer here</string>
+    <string name="score">SCORE</string>
+    <string-array name="words">
+        <item>pineapple</item>
+        <item>apple</item>
+        <item>biscuit</item>
+        <item>tiramisu</item>
+        <item>chocolate</item>
+        <item>pear</item>
+        <item>cherry</item>
+        <item>ginger</item>
+        <item>lither</item>
+        <item>spine</item>
+        <item>subtext</item>
+    </string-array>
+</resources>
