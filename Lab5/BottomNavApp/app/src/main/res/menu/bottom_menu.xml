@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/fox"
+        android:enabled="true"
+        android:icon="@drawable/ic_lysycya"
+        android:title="@string/lysycya" />
+    <item
+        android:id="@+id/tiger"
+        android:enabled="true"
+        android:icon="@drawable/ic_tygran"
+        android:title="@string/tygran" />
+    <item
+        android:id="@+id/wolf"
+        android:enabled="true"
+        android:icon="@drawable/ic_vovk"
+        android:title="@string/vovk" />
+</menu>
