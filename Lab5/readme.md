@@ -12,9 +12,9 @@
 <p>При запуске программы пользователь видит <b>LysycyaFragment</b>:</p>
 <img src="https://github.com/St1r3S/Mobile-Devices-Programming/blob/main/Lab5/images/3.jpg" width="200">
 <p>В нижней части экрана можно увидеть навигационное меню, которое и было реализовано блягодаря <b>BottomNavigationView</b></p>
-<p>При нажатии на элемент меню <b>Tygran</b> отрисовывается фрагмент <b>TygranFragment</b>:</p>
+<p>При нажатии на элемент меню <b>Тигран</b> отрисовывается фрагмент <b>TygranFragment</b>:</p>
 <img src="https://github.com/St1r3S/Mobile-Devices-Programming/blob/main/Lab5/images/4.jpg" width="200">  
-<p>При нажатии на элемент меню <b>Vovk</b> отрисовывается фрагмент <b>VovkFragment</b>:</p>
+<p>При нажатии на элемент меню <b>Вовук</b> отрисовывается фрагмент <b>VovkFragment</b>:</p>
 <img src="https://github.com/St1r3S/Mobile-Devices-Programming/blob/main/Lab5/images/5.jpg" width="200">  
 
  
