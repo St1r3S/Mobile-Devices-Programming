@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Dialogs</string>
+    <string name="main_activity_root">Here is main activity!</string>
+    <string name="dialog_activity_root">Here is dialog activity!</string>
+</resources>
